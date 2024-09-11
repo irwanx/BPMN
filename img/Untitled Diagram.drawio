@@ -1,77 +1,48 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
-  <diagram name="Page-1" id="fTA8-TIyQyEeQ-pSJhrs">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
+  <diagram name="Page-1" id="c_iTERMQYXSS9ofCvHll">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Monitoring dan Evaluasi" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="58" width="675" height="84" as="geometry" />
+        <mxCell id="2" value="Start Event" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="74" width="96" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Pemantauan Kinerja Sistem Baru" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
-          <mxGeometry x="43" y="33" width="248" height="34" as="geometry" />
+        <mxCell id="3" value="Pembeli Browsing Produk" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="146" y="24" width="195" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Penilaian Terhadap Efisiensi dan Kualitas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
-          <mxGeometry x="341" y="33" width="306" height="34" as="geometry" />
+        <mxCell id="4" value="Menambahkan ke Keranjang" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="391" y="14" width="216" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Implementasi Solusi" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="31" y="134" width="729" height="84" as="geometry" />
+        <mxCell id="5" value="Checkout" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="657" y="80" width="82" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Pelatihan Karyawan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5">
-          <mxGeometry x="43" y="33" width="156" height="34" as="geometry" />
+        <mxCell id="6" value="Pilih Metode Pembayaran" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="789" y="24" width="195" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Pendefinisian Kriteria Sukses" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5">
-          <mxGeometry x="249" y="33" width="221" height="34" as="geometry" />
+        <mxCell id="7" value="Gateway: Pembayaran Berhasil?" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1035" width="243" height="243" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Pelaksanaan Perubahan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5">
-          <mxGeometry x="520" y="33" width="182" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Pencarian Solusi" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="268" width="732" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Identifikasi Sistem Baru" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9">
-          <mxGeometry x="43" y="33" width="184" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="Optimasi Proses yang Ada" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9">
-          <mxGeometry x="277" y="33" width="197" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="Persiapan Rencana Aksi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9">
-          <mxGeometry x="524" y="33" width="181" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="Analisis Masalah" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry y="402" width="791" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="Pelajari Prosedur Internal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="13">
-          <mxGeometry x="43" y="33" width="198" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="Identifikasi Kendala Pada Proses" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="13">
-          <mxGeometry x="291" y="33" width="245" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="Analisis Data Performa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="13">
-          <mxGeometry x="586" y="33" width="178" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="Analisis Masalah" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="536" width="131" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="18" value="Pencarian Solusi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="536" width="131" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="Implementasi Solusi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="536" width="157" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="20" value="Monitoring dan Evaluasi" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1229" y="536" width="185" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="17" target="18">
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="18" target="19">
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="19" target="20">
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="6" target="7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
